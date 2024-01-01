@@ -8,3 +8,16 @@
 # Q&A
 
 # Audit scope
+
+
+[truflation-contracts @ be462d88b3d3636bcb0b716ba94b6ceeed6657ee](https://github.com/truflation/truflation-contracts/tree/be462d88b3d3636bcb0b716ba94b6ceeed6657ee)
+- [truflation-contracts/src/staking/VirtualStakingRewards.sol](truflation-contracts/src/staking/VirtualStakingRewards.sol)
+- [truflation-contracts/src/token/ERC677Token.sol](truflation-contracts/src/token/ERC677Token.sol)
+- [truflation-contracts/src/token/TfiBurn.sol](truflation-contracts/src/token/TfiBurn.sol)
+- [truflation-contracts/src/token/TrufMigrator.sol](truflation-contracts/src/token/TrufMigrator.sol)
+- [truflation-contracts/src/token/TrufVesting.sol](truflation-contracts/src/token/TrufVesting.sol)
+- [truflation-contracts/src/token/TruflationToken.sol](truflation-contracts/src/token/TruflationToken.sol)
+- [truflation-contracts/src/token/TruflationTokenCCIP.sol](truflation-contracts/src/token/TruflationTokenCCIP.sol)
+- [truflation-contracts/src/token/VotingEscrowTruf.sol](truflation-contracts/src/token/VotingEscrowTruf.sol)
+
+
